@@ -1,4 +1,4 @@
-# FlintZone
+# FZ Probe
 Unclid remix - Simplified using springs for better connectivity. Valkyrie stock printhead
 
 This remix uses different hardware than the Unclid so use the BOM in tis repo for that.
